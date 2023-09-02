@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-<form action="deneme.php" method="post">
+<form action="login.php" method="post">
     Email:<input type="text" name="kayitmail">
     Şifre:<input type="password" name="kayitsifre">
     <input type="submit" name="kaydol" value="Kaydol">
